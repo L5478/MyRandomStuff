@@ -53,4 +53,5 @@
 
 #### Agency
 
-- Active, player has no choice, but actions are weighted.
+- Active, player has no choice
+- Choices... How you kill turret.. Where to place your portal..
